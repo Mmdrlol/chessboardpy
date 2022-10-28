@@ -4,13 +4,6 @@ Simple chess board created with Python 3.6
 
 ---
 
-## Table of contents
-* [General info](#general-info)
-* [Features](#features)
-* [Sources](#sources)
-
----
-
 ## General info
 Here's my real first projet in python and I'm very proud of it ;)
 This project has a interactive board made with tkinter.
@@ -33,4 +26,4 @@ I tried to make ```board.py``` as general as possible so that it can be used in 
 ---
 
 ## Sources
-Board and graphic animations are inspired by [Lichess](https://lichess.org/
+Board and graphic animations are inspired by [Lichess](https://lichess.org/)
